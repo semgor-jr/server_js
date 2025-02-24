@@ -1,6 +1,6 @@
 # server_js
 
-##с использованием mongodb
+## C использованием mongodb
 
 ![image](https://github.com/semgor-jr/server_js/blob/main/screenshots/1.png)
 ![image](https://github.com/semgor-jr/server_js/blob/main/screenshots/2.png)
