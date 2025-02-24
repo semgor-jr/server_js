@@ -2,5 +2,5 @@
 
 ##с использованием mongodb
 
-![image]()
+![image](https://github.com/semgor-jr/server_js/blob/main/screenshots/1.png)
 
